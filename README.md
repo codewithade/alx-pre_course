@@ -1,2 +1,2 @@
 # My first readme
-## I updated the readme from Github
+## Fixed ALX errors
